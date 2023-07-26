@@ -8,3 +8,7 @@ Data call to the text feild by using ID, and then we can edit or delete data.
 
 
 ![ss3](https://github.com/priyanjanjb/Book_Managment_System/assets/84628100/dedff6f4-1d9b-4fbe-bb52-f062108b01a2)
+
+how to use:
+
+this application db is not hosted. its working on local server(xampp server);
